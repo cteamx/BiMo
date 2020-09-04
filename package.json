@@ -26,7 +26,7 @@
     "highlight.js": "^9.15.6",
     "html-pdf": "^2.2.0",
     "markdown-toc": "^1.2.0",
-    "marked": "^0.6.2",
+    "marked": "^1.1.1",
     "vue": "^2.5.16",
     "vue-electron": "^1.0.6",
     "vue-router": "^3.0.1",
